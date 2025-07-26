@@ -18,8 +18,18 @@ npm run dev
 npx ts-node src/app.ts -b 1 -s -n tabla-del-1 -d ./multiplicaciones
 ```
 
-``` -b -> tabla del número que desea ver\n ```
-``` -s -> mostrar la tabla de multiplicar en la consola ```
-``` -l -> número máximo al que será calculada la tabla Ej: 2 x 10(máximo) ```
-``` -n -> nombre del archivo que será creado ```
-``` -d -> nombre de la carpeta dónde se almacenará el archivo ```
+```
+-b -> tabla del número que desea ver
+```
+```
+-s -> mostrar la tabla de multiplicar en la consola
+```
+```
+-l -> número máximo al que será calculada la tabla Ej: 2 x 10(máximo)
+```
+```
+-n -> nombre del archivo que será creado
+```
+```
+-d -> nombre de la carpeta dónde se almacenará el archivo
+```
